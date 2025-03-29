@@ -1,12 +1,12 @@
 # Overview
 
-This project gave me the chance to design and implement a functional hotel reservation system using Kotlin, deepening my understanding of application structure, user input handling, and file-based data storage.
+This project gave me the chance to design and implement a functional hotel booking system using Kotlin, deepening my understanding of application structure, user input handling, and file-based data storage.
 
 This hotel reservation app allows users to make, view, and cancel hotel bookings through a simple command-line interface. Users interact with menus to select check-in/check-out dates, choose room types, and review current reservations.
 
 The purpose of creating this app was to enhance my skills in Kotlin while gaining hands-on experience with menu-driven programs, object-oriented programming, and working with the Kotlin standard library.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://www.loom.com/share/1335a8ad1cb94d968b2d9aa44587156b?sid=30133821-ef44-47bb-ba7c-192108dceebd)
 
 # Development Environment
 
